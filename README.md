@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenHafiz69
-- 👀 I’m interested in Physics and Web Development
+- 👀 I’m interested in Physics and Web Development!
 - 🌱 I’m currently learning FreeCodeCamp Responsive Web Design certification
 - 💞️ I’m looking to collaborate on Front End Development projects
 - 📫 Reach me at den.m.hafiz@gmail.com
