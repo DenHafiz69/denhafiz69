@@ -1,67 +1,68 @@
-# 👋 Hi there, I'm Den Hafiz
+# 👋 Hi, I'm Den Hafiz
 
-- 🎓 Physics graduate currently pursuing a **Master’s in System Development**
-- 🌐 Enthusiastic about software engineering, data scraping, and automation
-- 🚀 Creator of open-source tools for web scraping and productivity bots
-- 📫 Reach me: email@example.com | [GitHub](https://github.com/DenHafiz69)
+- 🎓 Master’s graduate in **Science (Artificial Intelligence)**  
+- 🧠 Physics background with a growing interest in software development and automation  
+- 🌱 Enthusiastic about **free and open-source software (FOSS)** and building practical tools  
+- 📫 Reach me: denhafiz.dev@gmail.com | [GitHub](https://github.com/DenHafiz69)
 
 ---
 
 ## 🔧 Featured Projects
 
 ### **ExpenTrax – Telegram Expense Tracker Bot**  
-A Python-based bot to **track expenses and income**, generate summaries, export CSV reports, and set budgets—all through a Telegram chat interface.  
+A Python-based bot to **track expenses and income**, generate summaries, export CSV reports, and manage budgets—all via Telegram.  
 Key features:
 - Add and categorize transactions  
 - View monthly or yearly financial summaries  
 - Export data and customize settings  
-- Runs smoothly with `.env` configuration and `pip install -r requirements.txt`  
-:contentReference[oaicite:1]{index=1}
+- Simple `.env` setup and `pip install -r requirements.txt`  
 
-### **Housing Price Scraper – `mudah_scraping`**  
-Automates scraping and cleaning of property listings from `mudah.my`, outputting structured CSV data that includes name, price, location, and more. Built using **BeautifulSoup** and **Pandas**.  
-Clone the repo, then run `web_scraping.py` and `data_cleaning.py` to generate data.  
-:contentReference[oaicite:2]{index=2}
+➡️ [View on GitHub »](https://github.com/DenHafiz69/expentrax)
 
 ---
 
-## 🧠 Tech Stack & Tools
+### **mudah_scraping – Property Listing Scraper**  
+Scrapes and cleans property listings from `mudah.my`, outputting structured data like price, location, and listing title.  
+Built using **BeautifulSoup** and **Pandas**.  
+Great for quick analysis or importing into dashboards.
 
-- **Languages:** Python (web scraping, bots), Jupyter Notebooks (exploration & visualization)
-- **Libraries:** BeautifulSoup, Pandas, Telegram‑bot libraries
-- **Other Interests:** System development, LaTeX (check out my `iium-thesis` template)
-
----
-
-## 🚀 What’s Next?
-
-I’m currently:
-- Expanding *ExpenTrax* with UI dashboard & cloud integration  
-- Enhancing data pipelines for more data sources  
-- Learning full-stack web development to build end-to-end systems
-
-If you're working on open-source projects related to **chatbots, web scraping, or data pipelines**, I'd love to collaborate!
+➡️ [View on GitHub »](https://github.com/DenHafiz69/mudah_scraping)
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tools & Skills
 
-- 🌟 Stars:  `5`  across repositories  
-- 🚀 Top projects: `expentrax`, `mudah_scraping`  
-:contentReference[oaicite:3]{index=3}
+- **Languages:** Python, Shell scripting, LaTeX  
+- **Libraries:** BeautifulSoup, Pandas, Matplotlib  
+- **Tech Interests:** Automation, Web Scraping, Data Analysis, System Design  
+- **Other:** Telegram Bot API, Git, Jupyter
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 What I'm Doing Now
+
+- Enhancing *ExpenTrax* to include budget tracking and reporting features  
+- Exploring more Python automation workflows  
+- Learning backend web development (FastAPI, PostgreSQL, etc.)
+
+---
+
+## 📊 GitHub Overview
+
+- 🗂️ Projects: `expentrax`, `mudah_scraping`, `iium-thesis`  
+- 🌟 Exploring & contributing to tools I find useful  
+- 🛠️ Always tinkering with scripts to simplify everyday problems
+
+---
+
+## 📬 Let’s Connect
 
 | Platform   | Link |
 |------------|------|
 | GitHub     | [DenHafiz69](https://github.com/DenHafiz69) |
 | ORCID      | [0009‑0003‑3477‑2113](https://orcid.org/0009-0003-3477-2113) |
-| Email      | email@example.com |
+| Email      | denhafiz.dev@gmail.com |
 
 ---
 
-> “Open to collaboration and always learning.”  
-
-*Thanks for stopping by—I’m excited to connect and build something awesome together!*
+> “Always learning. Always improving. Always debugging.”  
