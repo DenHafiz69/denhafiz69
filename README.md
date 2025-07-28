@@ -3,7 +3,7 @@
 - 🎓 Master’s graduate in **Science (Artificial Intelligence)**  
 - 🧠 Physics background with a growing interest in software development and automation  
 - 🌱 Enthusiastic about **free and open-source software (FOSS)** and building practical tools  
-- 📫 Reach me: denhafiz.dev@gmail.com | [GitHub](https://github.com/DenHafiz69)
+- 📫 Reach me: den.m.hafiz@gmail.com | [GitHub](https://github.com/DenHafiz69)
 
 ---
 
@@ -60,8 +60,8 @@ Great for quick analysis or importing into dashboards.
 | Platform   | Link |
 |------------|------|
 | GitHub     | [DenHafiz69](https://github.com/DenHafiz69) |
-| ORCID      | [0009‑0003‑3477‑2113](https://orcid.org/0009-0003-3477-2113) |
-| Email      | denhafiz.dev@gmail.com |
+<!-- | ORCID      | [0009‑0003‑3477‑2113](https://orcid.org/0009-0003-3477-2113) | -->
+| Email      | den.m.hafiz@gmail.com |
 
 ---
 
