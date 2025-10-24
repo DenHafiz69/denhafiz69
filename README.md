@@ -21,19 +21,10 @@ Key features:
 
 ---
 
-### **mudah_scraping – Property Listing Scraper**  
-Scrapes and cleans property listings from `mudah.my`, outputting structured data like price, location, and listing title.  
-Built using **BeautifulSoup** and **Pandas**.  
-Great for quick analysis or importing into dashboards.
-
-➡️ [View on GitHub »](https://github.com/DenHafiz69/mudah_scraping)
-
----
-
 ## 🧰 Tools & Skills
 
 - **Languages:** Python, Shell scripting, LaTeX  
-- **Libraries:** BeautifulSoup, Pandas, Matplotlib  
+- **Libraries:** BeautifulSoup, Pandas, Matplotlib, Tensorflow
 - **Tech Interests:** Automation, Web Scraping, Data Analysis, System Design  
 - **Other:** Telegram Bot API, Git, Jupyter
 
@@ -41,7 +32,7 @@ Great for quick analysis or importing into dashboards.
 
 ## 🚀 What I'm Doing Now
 
-- Enhancing *ExpenTrax* to include budget tracking and reporting features  
+- Enhancing *Expentrax* to include budget tracking and reporting features  
 - Exploring more Python automation workflows  
 - Learning backend web development (FastAPI, PostgreSQL, etc.)
 
@@ -49,7 +40,7 @@ Great for quick analysis or importing into dashboards.
 
 ## 📊 GitHub Overview
 
-- 🗂️ Projects: `expentrax`, `mudah_scraping`, `iium-thesis`  
+- 🗂️ Projects: `expentrax`, `iium-thesis`  
 - 🌟 Exploring & contributing to tools I find useful  
 - 🛠️ Always tinkering with scripts to simplify everyday problems
 
@@ -60,9 +51,8 @@ Great for quick analysis or importing into dashboards.
 | Platform   | Link |
 |------------|------|
 | GitHub     | [DenHafiz69](https://github.com/DenHafiz69) |
-<!-- | ORCID      | [0009‑0003‑3477‑2113](https://orcid.org/0009-0003-3477-2113) | -->
 | Email      | den.m.hafiz@gmail.com |
 
 ---
 
-> “Always learning. Always improving. Always debugging.”  
+> “Writing code I’ll regret tomorrow.”  
